@@ -1,7 +1,7 @@
 {
  "payload": {
   "v": 1,
-  "at": 1794960632877,
+  "at": 1794969335255,
   "revoked": [],
   "issued": [
    {
@@ -21,8 +21,17 @@
      "listen"
     ],
     "at": 1794960632671
+   },
+   {
+    "id": "k_7bf195c1d7",
+    "who": "Heoulh",
+    "apps": [
+     "kiting",
+     "listen"
+    ],
+    "at": 1794969335230
    }
   ]
  },
- "sig": "n3SWEn41kKwst6SRyy6uTWhxrZSYvpm-m6g82heVZWg5u5FTT2HW3VBmLkkKgxdsJcsZ_XqKYZqMk0GukEUNDg"
+ "sig": "KqmfqY6OGVTT8rqO14bBZykR18J2iFcgAp23oZiPjQWibierDzHUiIavndeJRXEv83qZzKBZA193xg77OA-bBQ"
 }
