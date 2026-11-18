@@ -1,0 +1,139 @@
+{
+ "v": 1,
+ "items": [
+  {
+   "app": "kiting",
+   "kind": "level",
+   "id": "lv_mwld2wk09smd",
+   "at": 1794969488782,
+   "del": false,
+   "data": {
+    "name": "Test niveau 1",
+    "desc": "",
+    "mode": "dodge",
+    "speedPct": 100,
+    "complexityPct": 100,
+    "duration": 60,
+    "hp": 300,
+    "flash": true,
+    "enemies": 6,
+    "casters": [
+     "ezreal",
+     "lux"
+    ],
+    "scripted": true,
+    "script": [
+     {
+      "t": 0,
+      "c": "brand",
+      "s": "brand_q",
+      "x": 774,
+      "y": 849,
+      "ax": 684,
+      "ay": 446,
+      "aim": "fixed"
+     },
+     {
+      "t": 0.5,
+      "c": "ahri",
+      "s": "orb",
+      "x": 565,
+      "y": 641,
+      "ax": 963,
+      "ay": 633,
+      "aim": "fixed"
+     },
+     {
+      "t": 0.7,
+      "c": "lux",
+      "s": "laser",
+      "x": 436,
+      "y": 381,
+      "ax": 1392,
+      "ay": 914,
+      "aim": "fixed"
+     },
+     {
+      "t": 2.5,
+      "c": "ezreal",
+      "s": "mystic",
+      "x": 1146,
+      "y": 477,
+      "ax": 979,
+      "ay": 553,
+      "aim": "fixed"
+     },
+     {
+      "t": 2.5,
+      "c": "ahri",
+      "s": "orb",
+      "x": 816,
+      "y": 341,
+      "ax": 998,
+      "ay": 631,
+      "aim": "fixed"
+     },
+     {
+      "t": 3,
+      "c": "ahri",
+      "s": "orb",
+      "x": 1138,
+      "y": 275,
+      "ax": 1016,
+      "ay": 501,
+      "aim": "fixed"
+     },
+     {
+      "t": 4.2,
+      "c": "blitz",
+      "s": "hook",
+      "x": 863,
+      "y": 734,
+      "ax": 977,
+      "ay": 500,
+      "aim": "fixed"
+     },
+     {
+      "t": 4.8,
+      "c": "ezreal",
+      "s": "mystic",
+      "x": 1129,
+      "y": 570,
+      "ax": 863,
+      "ay": 496,
+      "aim": "fixed"
+     },
+     {
+      "t": 7,
+      "c": "lux",
+      "s": "laser",
+      "x": 944,
+      "y": 171,
+      "ax": 1047,
+      "ay": 884,
+      "aim": "fixed"
+     },
+     {
+      "t": 7,
+      "c": "lux",
+      "s": "zone",
+      "x": 720,
+      "y": 416,
+      "ax": 998,
+      "ay": 343,
+      "aim": "fixed"
+     }
+    ],
+    "start": {
+     "x": 804,
+     "y": 588
+    },
+    "loop": 0,
+    "random": false
+   },
+   "by": "eyJ2IjoxLCJpZCI6ImtfZDJmZGZlZDU4ZiIsIndobyI6IlRva3M0Mm8iLCJhcHBzIjpbImtpdGluZyIsImxpc3RlbiJdLCJwdWIiOiJNRmt3RXdZSEtvWkl6ajBDQVFZSUtvWkl6ajBEQVFjRFFnQUVtM0JacU5rcWVSVlRMamJIVmpGSjBqRnpWL3kzMFl4V1VtL3BvZThHRFp5MmJvZGFIUUx2aXZlUnZTV2NmSytSa0RsMHNndktJMmpMN1RyTDl6djZZZz09IiwiYXQiOjE3OTQ5NjAzNzY4NzB9.NQ9qBius_gHjJYRpv2Z1geR22X7i0Oj1SpfjXd83MMYlcNpSWmAwtgT7t6NudelrA7VUR82KJ2Px_gJYS7PcuQ",
+   "sig": "kQxaTK3F565Z0EPOOwk79AjPkROVeOJ4zfLp3WD-AWowTWcF_0UDSf_PbJAorlr8F39wKG8YNgJgKmc7QxTRqQ"
+  }
+ ],
+ "at": 1794969501670
+}
