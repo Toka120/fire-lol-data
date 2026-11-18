@@ -1,0 +1,19 @@
+{
+ "payload": {
+  "v": 1,
+  "at": 1795025161884,
+  "cfg": {
+   "news": {},
+   "hide": {},
+   "feat": {},
+   "color": {},
+   "art": {},
+   "tag": {},
+   "maint": {
+    "listen": "En maintenance, retour très vite."
+   },
+   "banner": null
+  }
+ },
+ "sig": "Bo116qYLgsZQGC_eCDtWZlE64yhROk9W0qTV5PTjI3sgItlwGn-sdAcJxVH2Q40FcNH_ZYu3m9SoG6xl1im-og"
+}
