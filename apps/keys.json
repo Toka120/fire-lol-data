@@ -1,7 +1,7 @@
 {
  "payload": {
   "v": 1,
-  "at": 1794960376966,
+  "at": 1794960632877,
   "revoked": [],
   "issued": [
    {
@@ -12,8 +12,17 @@
      "listen"
     ],
     "at": 1794960376870
+   },
+   {
+    "id": "k_8de0c9c10d",
+    "who": "Créateur (ce PC)",
+    "apps": [
+     "kiting",
+     "listen"
+    ],
+    "at": 1794960632671
    }
   ]
  },
- "sig": "-c_VSDcaD9whjvrwvv1L1zJ7i3-LV6ZMBDl8EfRllNoByODWRWwITKShYD2beoWm-QYE8pKMb2E5L7XR2iudmQ"
+ "sig": "n3SWEn41kKwst6SRyy6uTWhxrZSYvpm-m6g82heVZWg5u5FTT2HW3VBmLkkKgxdsJcsZ_XqKYZqMk0GukEUNDg"
 }
