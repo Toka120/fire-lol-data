@@ -1,0 +1,19 @@
+{
+ "payload": {
+  "v": 1,
+  "at": 1794960376966,
+  "revoked": [],
+  "issued": [
+   {
+    "id": "k_d2fdfed58f",
+    "who": "Toks42o",
+    "apps": [
+     "kiting",
+     "listen"
+    ],
+    "at": 1794960376870
+   }
+  ]
+ },
+ "sig": "-c_VSDcaD9whjvrwvv1L1zJ7i3-LV6ZMBDl8EfRllNoByODWRWwITKShYD2beoWm-QYE8pKMb2E5L7XR2iudmQ"
+}
