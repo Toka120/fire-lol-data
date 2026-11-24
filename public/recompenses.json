@@ -1,0 +1,21 @@
+{
+ "payload": {
+  "v": 1,
+  "at": 1795486084652,
+  "gifts": [
+   {
+    "id": "gmwu220az",
+    "to": [
+     "b0ab02fb871981c0",
+     "69a5d201528e358a"
+    ],
+    "n": 500,
+    "item": null,
+    "msg": "Tiens mon loup",
+    "at": 1795486084626
+   }
+  ],
+  "events": []
+ },
+ "sig": "q95ViTeVYs95986m6gg3QpXWlVQrs7Zv6go9161ahqolt5Eg_ASmxPOsmZtTnDz-jD7lr0UBEDLwaG6Keiv7pQ"
+}
