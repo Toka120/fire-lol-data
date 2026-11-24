@@ -1,7 +1,7 @@
 {
  "payload": {
   "v": 1,
-  "at": 1795025161884,
+  "at": 1795489061502,
   "cfg": {
    "news": {},
    "hide": {},
@@ -10,10 +10,11 @@
    "art": {},
    "tag": {},
    "maint": {
+    "team": "En maintenance, retour très vite.",
     "listen": "En maintenance, retour très vite."
    },
    "banner": null
   }
  },
- "sig": "Bo116qYLgsZQGC_eCDtWZlE64yhROk9W0qTV5PTjI3sgItlwGn-sdAcJxVH2Q40FcNH_ZYu3m9SoG6xl1im-og"
+ "sig": "kmCxKOAONTsRJ4Gh80_rCWTc5UcHy6CBKHJSLbSEI9W3YjdjLf9GEsQd3Yd1TzF9Kb09Er04OYzpO-2druYoDw"
 }
